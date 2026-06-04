@@ -26,7 +26,7 @@ df.columns = df.columns.str.strip()
 # -----------------------------------
 
 # Missing value handling
-df.fillna("Unknown", inplace=True)
+df = df.fillna("")
 
 # Remove duplicates
 df.drop_duplicates(inplace=True)
