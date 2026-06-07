@@ -1,0 +1,201 @@
+Company,Mission_Type,Launch_Site,Rocket,Cost_Million_USD,Success,Payload_kg
+Roscosmos,Satellite,Vandenberg,Soyuz,64.31,Success,838
+Blue Origin,Probe,Jiuquan,GSLV,296.92,Success,6395
+ISRO,Satellite,Baikonur,Atlas V,290.49,Success,4562
+Blue Origin,Satellite,Vandenberg,Atlas V,210.2,Success,3208
+Blue Origin,Cargo,Baikonur,GSLV,452.4,Failure,3652
+NASA,Probe,Sriharikota,GSLV,107.94,Partial Failure,2250
+ISRO,Probe,Cape Canaveral,Long March 5,198.54,Success,6104
+ISRO,Cargo,Sriharikota,Long March 5,194.71,Success,2921
+ISRO,Manned,Vandenberg,Atlas V,91.53,Success,7619
+Blue Origin,Satellite,Baikonur,Soyuz,266.52,Success,1209
+Roscosmos,Rover,Baikonur,Atlas V,359.5,Failure,5819
+ISRO,Satellite,Jiuquan,Soyuz,280.25,Success,7109
+CNSA,Satellite,Baikonur,Soyuz,120.64,Success,5708
+Blue Origin,Manned,Jiuquan,Long March 5,219.78,Success,5887
+NASA,Satellite,Cape Canaveral,Falcon 9,51.17,Success,4226
+Roscosmos,Cargo,Vandenberg,Falcon 9,440.74,Success,4142
+CNSA,Cargo,Jiuquan,GSLV,88.03,Success,4493
+CNSA,Probe,Cape Canaveral,Long March 5,318.78,Success,988
+NASA,Rover,Baikonur,Soyuz,493.82,Failure,6157
+Roscosmos,Satellite,Baikonur,Falcon 9,291.47,Success,546
+Blue Origin,Satellite,Cape Canaveral,Soyuz,465.82,Success,3859
+SpaceX,Manned,Baikonur,Falcon 9,156.25,Success,5373
+Roscosmos,Cargo,Cape Canaveral,Falcon 9,391.98,Failure,5635
+NASA,Rover,Jiuquan,Falcon 9,289.07,Partial Failure,5306
+CNSA,Probe,Jiuquan,Long March 5,374.23,Success,900
+Blue Origin,Cargo,Cape Canaveral,Atlas V,78.05,Success,4490
+Roscosmos,Probe,Jiuquan,Soyuz,116.48,Partial Failure,6413
+SpaceX,Manned,Jiuquan,Long March 5,109.9,Success,7624
+SpaceX,Manned,Jiuquan,Long March 5,359.22,Success,3657
+ISRO,Satellite,Sriharikota,Long March 5,430.0,Partial Failure,4845
+ISRO,Rover,Vandenberg,Long March 5,387.33,Success,890
+NASA,Probe,Baikonur,Long March 5,63.71,Success,4353
+Roscosmos,Cargo,Sriharikota,GSLV,440.25,Success,4930
+Roscosmos,Manned,Jiuquan,Soyuz,209.37,Success,1128
+CNSA,Satellite,Cape Canaveral,Long March 5,228.72,Success,4732
+CNSA,Satellite,Jiuquan,Soyuz,97.19,Failure,3430
+CNSA,Probe,Vandenberg,GSLV,381.83,Success,7331
+ISRO,Manned,Jiuquan,GSLV,132.03,Success,2021
+Roscosmos,Rover,Cape Canaveral,Soyuz,303.78,Success,1326
+Roscosmos,Manned,Vandenberg,Falcon 9,428.32,Success,5322
+SpaceX,Probe,Jiuquan,Atlas V,90.14,Partial Failure,2000
+ISRO,Probe,Vandenberg,Falcon 9,290.9,Success,7237
+Blue Origin,Manned,Baikonur,Falcon 9,154.95,Success,3794
+ISRO,Probe,Baikonur,Falcon 9,204.32,Failure,5585
+Blue Origin,Manned,Jiuquan,Long March 5,263.29,Success,2919
+SpaceX,Cargo,Vandenberg,GSLV,209.8,Success,1434
+NASA,Manned,Cape Canaveral,Falcon 9,341.97,Success,3542
+Roscosmos,Manned,Jiuquan,GSLV,265.81,Success,4997
+SpaceX,Probe,Baikonur,Soyuz,312.89,Success,1966
+Roscosmos,Probe,Baikonur,Atlas V,381.57,Success,4061
+CNSA,Satellite,Jiuquan,Soyuz,300.98,Failure,1114
+NASA,Satellite,Vandenberg,Soyuz,313.94,Success,5892
+NASA,Cargo,Baikonur,Long March 5,304.01,Success,1682
+SpaceX,Satellite,Vandenberg,Atlas V,220.45,Success,3723
+NASA,Manned,Baikonur,Soyuz,201.85,Success,7638
+Blue Origin,Probe,Baikonur,Soyuz,454.84,Failure,3167
+NASA,Satellite,Sriharikota,Atlas V,323.4,Success,6831
+Roscosmos,Satellite,Baikonur,Atlas V,159.96,Success,5717
+Roscosmos,Cargo,Cape Canaveral,Soyuz,274.21,Success,630
+Roscosmos,Cargo,Jiuquan,Atlas V,198.66,Success,7448
+Roscosmos,Manned,Jiuquan,Soyuz,470.16,Success,5790
+Blue Origin,Probe,Vandenberg,Soyuz,53.39,Success,3483
+ISRO,Cargo,Baikonur,Long March 5,151.4,Success,7629
+CNSA,Satellite,Cape Canaveral,Falcon 9,214.41,Failure,4778
+SpaceX,Probe,Vandenberg,Soyuz,269.51,Success,7626
+Roscosmos,Probe,Sriharikota,GSLV,432.87,Success,4959
+NASA,Satellite,Vandenberg,Falcon 9,89.55,Success,538
+Roscosmos,Cargo,Vandenberg,Falcon 9,412.64,Failure,4459
+NASA,Satellite,Baikonur,Falcon 9,75.04,Success,7140
+CNSA,Probe,Sriharikota,Long March 5,429.04,Failure,4087
+CNSA,Rover,Vandenberg,Soyuz,73.24,Success,5968
+CNSA,Rover,Cape Canaveral,Long March 5,58.21,Failure,7625
+NASA,Manned,Cape Canaveral,Soyuz,363.63,Partial Failure,1420
+Roscosmos,Satellite,Jiuquan,Long March 5,498.76,Failure,3269
+CNSA,Satellite,Sriharikota,Long March 5,453.47,Failure,7828
+Blue Origin,Manned,Sriharikota,GSLV,309.2,Success,4611
+NASA,Manned,Jiuquan,Long March 5,462.83,Success,992
+NASA,Manned,Vandenberg,Atlas V,52.39,Success,6045
+Roscosmos,Probe,Sriharikota,GSLV,488.78,Success,1631
+NASA,Satellite,Cape Canaveral,Long March 5,270.84,Success,7537
+NASA,Probe,Cape Canaveral,Falcon 9,375.3,Success,4021
+CNSA,Manned,Baikonur,Atlas V,419.39,Success,810
+Roscosmos,Satellite,Sriharikota,Atlas V,373.31,Success,1238
+CNSA,Probe,Vandenberg,Atlas V,290.77,Failure,3741
+CNSA,Probe,Jiuquan,GSLV,264.48,Success,1045
+Roscosmos,Manned,Jiuquan,Long March 5,427.36,Success,2961
+SpaceX,Satellite,Vandenberg,Long March 5,142.28,Failure,4846
+CNSA,Manned,Baikonur,Falcon 9,485.6,Partial Failure,5354
+Blue Origin,Satellite,Jiuquan,Falcon 9,369.93,Success,2304
+Blue Origin,Rover,Sriharikota,Atlas V,139.78,Failure,3712
+NASA,Cargo,Baikonur,Falcon 9,381.31,Partial Failure,5893
+Blue Origin,Cargo,Sriharikota,GSLV,288.43,Partial Failure,6227
+NASA,Cargo,Cape Canaveral,Long March 5,368.25,Success,4310
+SpaceX,Manned,Baikonur,Atlas V,395.5,Success,6510
+Roscosmos,Rover,Jiuquan,Falcon 9,89.28,Success,7706
+Roscosmos,Satellite,Baikonur,GSLV,277.75,Success,1313
+Roscosmos,Probe,Baikonur,GSLV,469.41,Success,4624
+Blue Origin,Satellite,Baikonur,Falcon 9,194.29,Success,5553
+SpaceX,Probe,Baikonur,Long March 5,317.25,Failure,2532
+Blue Origin,Satellite,Sriharikota,Falcon 9,216.15,Success,5072
+Blue Origin,Rover,Cape Canaveral,Atlas V,254.42,Failure,4913
+SpaceX,Probe,Vandenberg,Falcon 9,296.87,Success,744
+SpaceX,Manned,Baikonur,GSLV,297.01,Success,5343
+SpaceX,Satellite,Jiuquan,Falcon 9,140.78,Partial Failure,5292
+SpaceX,Satellite,Baikonur,Long March 5,358.06,Success,771
+Roscosmos,Probe,Jiuquan,Soyuz,89.54,Success,4011
+ISRO,Manned,Sriharikota,Falcon 9,112.47,Failure,2271
+ISRO,Manned,Jiuquan,Long March 5,51.22,Success,1762
+SpaceX,Rover,Vandenberg,Long March 5,102.51,Success,2924
+ISRO,Manned,Cape Canaveral,GSLV,262.92,Failure,4861
+ISRO,Manned,Jiuquan,Long March 5,322.75,Success,7569
+SpaceX,Manned,Jiuquan,Long March 5,407.43,Failure,1420
+ISRO,Cargo,Cape Canaveral,Long March 5,98.01,Success,3930
+Blue Origin,Rover,Vandenberg,Long March 5,432.83,Failure,4935
+NASA,Satellite,Baikonur,Atlas V,385.69,Success,4984
+NASA,Probe,Jiuquan,Atlas V,233.83,Partial Failure,3124
+SpaceX,Satellite,Cape Canaveral,GSLV,469.82,Failure,4260
+Roscosmos,Rover,Sriharikota,Falcon 9,495.92,Success,2550
+SpaceX,Probe,Cape Canaveral,Long March 5,142.25,Success,4000
+Roscosmos,Rover,Sriharikota,Falcon 9,220.65,Partial Failure,1665
+NASA,Manned,Vandenberg,Falcon 9,466.9,Success,875
+SpaceX,Probe,Baikonur,GSLV,374.72,Success,2533
+CNSA,Manned,Cape Canaveral,Long March 5,71.64,Success,6967
+Blue Origin,Satellite,Jiuquan,Long March 5,401.68,Success,645
+ISRO,Satellite,Vandenberg,Soyuz,422.57,Success,6577
+Roscosmos,Probe,Cape Canaveral,Falcon 9,387.73,Success,4888
+CNSA,Probe,Jiuquan,Falcon 9,409.79,Success,931
+ISRO,Rover,Cape Canaveral,Atlas V,421.31,Success,1204
+ISRO,Rover,Sriharikota,Soyuz,133.88,Success,7592
+SpaceX,Manned,Cape Canaveral,Atlas V,156.06,Success,6594
+ISRO,Probe,Cape Canaveral,Atlas V,335.19,Success,3132
+Blue Origin,Satellite,Cape Canaveral,Atlas V,458.54,Partial Failure,4994
+CNSA,Rover,Vandenberg,GSLV,192.29,Success,7460
+ISRO,Rover,Cape Canaveral,GSLV,314.74,Success,1463
+SpaceX,Satellite,Jiuquan,Atlas V,357.34,Failure,7807
+Blue Origin,Rover,Sriharikota,Soyuz,253.38,Success,2734
+NASA,Manned,Sriharikota,Falcon 9,371.2,Failure,2541
+CNSA,Probe,Cape Canaveral,Soyuz,454.85,Success,2328
+ISRO,Satellite,Vandenberg,Long March 5,330.85,Success,2608
+SpaceX,Probe,Vandenberg,GSLV,292.9,Success,4568
+NASA,Rover,Jiuquan,Falcon 9,247.44,Success,1438
+NASA,Rover,Cape Canaveral,Falcon 9,309.87,Success,5305
+Roscosmos,Satellite,Sriharikota,Long March 5,209.91,Success,1306
+Blue Origin,Manned,Vandenberg,Long March 5,226.17,Success,1963
+ISRO,Cargo,Cape Canaveral,Atlas V,289.34,Success,7986
+SpaceX,Satellite,Vandenberg,GSLV,79.98,Success,5921
+Roscosmos,Cargo,Vandenberg,GSLV,153.06,Success,3915
+Blue Origin,Cargo,Sriharikota,Soyuz,294.28,Success,510
+Roscosmos,Manned,Baikonur,Atlas V,244.19,Success,5681
+CNSA,Cargo,Jiuquan,Atlas V,199.77,Success,2368
+Blue Origin,Cargo,Jiuquan,Atlas V,378.75,Success,6869
+Blue Origin,Manned,Sriharikota,Atlas V,362.17,Failure,7820
+ISRO,Cargo,Vandenberg,GSLV,125.03,Success,7207
+Blue Origin,Cargo,Cape Canaveral,GSLV,445.38,Failure,5367
+Roscosmos,Cargo,Vandenberg,Atlas V,272.94,Success,6190
+Blue Origin,Satellite,Sriharikota,Soyuz,383.66,Success,6203
+ISRO,Satellite,Jiuquan,Falcon 9,307.92,Partial Failure,5929
+ISRO,Satellite,Vandenberg,Falcon 9,498.96,Success,1384
+CNSA,Manned,Jiuquan,Soyuz,388.58,Success,7910
+Roscosmos,Rover,Cape Canaveral,Atlas V,368.14,Failure,4064
+NASA,Cargo,Jiuquan,GSLV,400.36,Success,1889
+NASA,Cargo,Jiuquan,Falcon 9,114.41,Failure,3901
+Blue Origin,Manned,Baikonur,Long March 5,142.05,Success,7774
+CNSA,Cargo,Baikonur,Long March 5,371.33,Partial Failure,4821
+SpaceX,Satellite,Baikonur,Soyuz,272.29,Success,1324
+Blue Origin,Rover,Jiuquan,Atlas V,389.59,Success,2765
+CNSA,Probe,Sriharikota,Falcon 9,96.31,Partial Failure,1436
+Roscosmos,Cargo,Jiuquan,Atlas V,291.42,Success,3300
+Roscosmos,Satellite,Sriharikota,Falcon 9,220.47,Partial Failure,3053
+Roscosmos,Probe,Sriharikota,Soyuz,255.65,Success,6902
+Roscosmos,Rover,Baikonur,Soyuz,321.78,Success,6507
+Roscosmos,Probe,Vandenberg,Long March 5,276.03,Success,4345
+CNSA,Satellite,Cape Canaveral,Atlas V,292.94,Success,2296
+CNSA,Probe,Baikonur,Long March 5,268.86,Success,553
+ISRO,Manned,Baikonur,Atlas V,234.03,Failure,7714
+NASA,Probe,Vandenberg,Long March 5,397.35,Failure,1226
+Roscosmos,Cargo,Cape Canaveral,GSLV,55.49,Partial Failure,3236
+SpaceX,Cargo,Jiuquan,GSLV,319.3,Success,6140
+CNSA,Manned,Jiuquan,GSLV,304.48,Success,3670
+SpaceX,Satellite,Baikonur,GSLV,372.28,Success,5639
+SpaceX,Cargo,Cape Canaveral,Falcon 9,319.56,Success,2413
+SpaceX,Rover,Baikonur,GSLV,422.06,Success,6372
+ISRO,Cargo,Sriharikota,Soyuz,481.58,Success,2096
+CNSA,Cargo,Baikonur,Soyuz,204.14,Success,2414
+SpaceX,Satellite,Baikonur,Falcon 9,152.31,Success,2966
+Roscosmos,Probe,Jiuquan,GSLV,240.62,Success,3237
+Blue Origin,Cargo,Jiuquan,GSLV,179.57,Success,1349
+SpaceX,Manned,Jiuquan,GSLV,326.73,Success,2609
+ISRO,Probe,Sriharikota,Long March 5,460.33,Success,7812
+CNSA,Rover,Jiuquan,Atlas V,112.6,Partial Failure,6859
+ISRO,Satellite,Cape Canaveral,Long March 5,95.36,Success,502
+SpaceX,Rover,Vandenberg,Atlas V,165.21,Success,4755
+CNSA,Probe,Cape Canaveral,GSLV,376.74,Success,4569
+Blue Origin,Probe,Cape Canaveral,GSLV,316.83,Failure,5376
+SpaceX,Probe,Jiuquan,Long March 5,96.0,Partial Failure,7787
+ISRO,Rover,Vandenberg,Long March 5,463.44,Failure,1392
+NASA,Probe,Vandenberg,Atlas V,405.54,Success,2530
+Roscosmos,Rover,Vandenberg,Soyuz,60.36,Success,3660
+ISRO,Probe,Sriharikota,Atlas V,343.12,Success,2876
+CNSA,Manned,Jiuquan,Long March 5,397.06,Partial Failure,5175
